@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm currently a python and Flutter developer,and 2nd year Computer science student.<br>I'm currently learning React 
+# 💫Currently a python, Front end and Flutter developer
+
+2nd year Computer science student.<br>I'm currently learning React, and Java
 
 
 ## 🌐 Socials:
@@ -12,7 +13,7 @@ I'm currently a python and Flutter developer,and 2nd year Computer science stude
 ![](https://github-readme-streak-stats.herokuapp.com/?user=genericodex&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=genericodex&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
